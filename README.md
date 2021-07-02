@@ -25,7 +25,6 @@ Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
 - [X] The detailed activity page should display a feed of all previous tracked activities.
 - [X] The detailed activity should contain a form to contain relevant information. (i.e if tracking nutrition this form allows the user to capture calories, timestamp, image, category, etc.) 
 - [X] The activity tracked should be given a unique id for easy lookup.
-  `TODO://` Add link to table schema in the link code below. Your file should end in `.sql` and show your schema for the detailed activities table. (🚫 Remove this paragraph after adding schema link)
   * [Table Schema]) (./life-tracker-api/life-tracker-schema.sql)
 
 ### Stretch Features
@@ -38,19 +37,23 @@ Implement any of the following features to improve the application:
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
+<img src='https://github.com/samaraaugust/LifeTracker/blob/main/LifeTracker1.gif' title='Video Walkthrough' width='500'/>
+<img src='https://github.com/samaraaugust/LifeTracker/blob/main/LifeTracker2.gif' title='Video Walkthrough' width='500'/>
+<img src='https://github.com/samaraaugust/LifeTracker/blob/main/LifeTracker3.gif' title='Video Walkthrough' width='500'/>
+<img src='https://github.com/samaraaugust/LifeTracker/blob/main/LifeTracker4.gif' title='Video Walkthrough' width='500'/>
+<img src='https://github.com/samaraaugust/LifeTracker/blob/main/LifeTracker5.gif' title='Video Walkthrough' width='500'/>
 
-`ADD_EMBEDDED_CODE_HERE`
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-The topics that were discussed in the labs prepared me to complete the assignment. In order to complete the assignment, I needed to have knowledge of CSS, HTML, Javascript, React, Express, PostgreSqland front-end and back-end programming. Throughout the week and last week, we learned and practiced these topics which allowed me to implement several of the requirements for this assignment.
+The topics that were discussed in the labs prepared me to complete the assignment. In order to complete the assignment, I needed to have knowledge of CSS, Javascript, React, Express, PostgreSql and front-end and back-end programming. Throughout the program, we learned and practiced these topics which allowed me to implement several of the requirements for this assignment.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-If I had more time I would have implemented some of the stretch features such as adding functionality to the Nutrition and Sleep pages/
+If I had more time I would have implemented some of the stretch features such as adding functionality to the Nutrition and Sleep pages.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 During my project demo, I believe that I presented all of my features clearly and answered questions coherently. I noticed that one of my peers implemented the sleep page which is a functionality that I would want to add.
