@@ -26,7 +26,7 @@ Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
 - [X] The detailed activity should contain a form to contain relevant information. (i.e if tracking nutrition this form allows the user to capture calories, timestamp, image, category, etc.) 
 - [X] The activity tracked should be given a unique id for easy lookup.
   `TODO://` Add link to table schema in the link code below. Your file should end in `.sql` and show your schema for the detailed activities table. (🚫 Remove this paragraph after adding schema link)
-  * [Table Schema](📝ADD LINK TO TABLE SCHEMA.sql HERE!) 
+  * [Table Schema]) (./life-tracker-api/life-tracker-schema.sql)
 
 ### Stretch Features
 
@@ -53,7 +53,7 @@ The topics that were discussed in the labs prepared me to complete the assignmen
 If I had more time I would have implemented some of the stretch features such as adding functionality to the Nutrition and Sleep pages/
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
-During my project demo, I believe that I presented all of my features clearly and answered questions coherently. 
+During my project demo, I believe that I presented all of my features clearly and answered questions coherently. I noticed that one of my peers implemented the sleep page which is a functionality that I would want to add.
 
 ### Open-source libraries used
 
