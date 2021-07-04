@@ -43,6 +43,7 @@ Implement any of the following features to improve the application:
 <img src='https://github.com/samaraaugust/LifeTracker/blob/main/LifeTracker4.gif' title='Video Walkthrough' width='500'/>
 <img src='https://github.com/samaraaugust/LifeTracker/blob/main/LifeTracker5.gif' title='Video Walkthrough' width='500'/>
 <img src='https://github.com/samaraaugust/LifeTracker/blob/main/LifeTracker6.gif' title='Video Walkthrough' width='500'/>
+<img src='https://github.com/samaraaugust/LifeTracker/blob/main/LifeTracker7.gif' title='Video Walkthrough' width='500'/>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Reflection
